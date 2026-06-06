@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Hypothesis test database
+.hypothesis/
+
+# pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Kiro spec files (development tooling)
+.kiro/
+
+# OS files
+.DS_Store
+Thumbs.db
