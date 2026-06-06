@@ -325,4 +325,4 @@ If you validate on a platform, update this table and submit a PR.
 
 ## License
 
-Internal use. See your organization's licensing policy.
+Apache 2.0
